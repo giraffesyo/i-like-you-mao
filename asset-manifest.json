@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/i-like-you-mao/static/css/main.36acbdfa.chunk.css",
+    "main.js": "/i-like-you-mao/static/js/main.2e103f93.chunk.js",
+    "main.js.map": "/i-like-you-mao/static/js/main.2e103f93.chunk.js.map",
+    "runtime-main.js": "/i-like-you-mao/static/js/runtime-main.88650eb3.js",
+    "runtime-main.js.map": "/i-like-you-mao/static/js/runtime-main.88650eb3.js.map",
+    "static/js/2.53ec098c.chunk.js": "/i-like-you-mao/static/js/2.53ec098c.chunk.js",
+    "static/js/2.53ec098c.chunk.js.map": "/i-like-you-mao/static/js/2.53ec098c.chunk.js.map",
+    "index.html": "/i-like-you-mao/index.html",
+    "precache-manifest.9d8ce597ae42b4b2cbc3b44e06f2222b.js": "/i-like-you-mao/precache-manifest.9d8ce597ae42b4b2cbc3b44e06f2222b.js",
+    "service-worker.js": "/i-like-you-mao/service-worker.js",
+    "static/css/main.36acbdfa.chunk.css.map": "/i-like-you-mao/static/css/main.36acbdfa.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88650eb3.js",
+    "static/js/2.53ec098c.chunk.js",
+    "static/css/main.36acbdfa.chunk.css",
+    "static/js/main.2e103f93.chunk.js"
+  ]
+}
